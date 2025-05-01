@@ -1,0 +1,1 @@
+This is a simple Rock Paper Scissors game implemented in Java, where the player competes against the computer in a series of five matches. The game runs in the console and uses loops and conditional statements to handle user input, game logic, and result tracking. The computer makes random choices each round, and the winner is determined based on traditional game rules.
